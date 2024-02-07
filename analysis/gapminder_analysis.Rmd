@@ -92,3 +92,5 @@ ggplot(gapminder_df, aes(x = pop)) +
 |      |      |      |
 |      |      |      |
 |      |      |      |
+
+And we add some new lines because now we're working on git.
